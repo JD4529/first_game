@@ -1,0 +1,9 @@
+
+*.csproj
+*.sln
+Library
+ProjectSettings
+UserSettings/EditorUserSettings.asset
+UserSettings/Search.settings
+Logs
+.vsconfig
